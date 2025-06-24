@@ -40,7 +40,7 @@ Here's a glimpse into the tools and technologies I wield:
 - **DBMS** | **Data Visualization**
   
 ### 📱 **Data Visualization Libraries**
-- **Streamlit** 
+- **Streamlit, Power BI ** 
 
 ### 🤖 **Embedded Systems/Hardware, Design & Modelling**
 - **Arduino** | **Raspberry Pi** | **Unreal Engine** |**AutoCAD**
